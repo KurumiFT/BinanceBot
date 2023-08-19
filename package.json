@@ -1,0 +1,17 @@
+{
+  "name": "binancebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@binance/connector": "^3.0.0-rc.2",
+    "axios": "^1.4.0",
+    "binance-api-node": "^0.12.6",
+    "ccxt": "^4.0.65"
+  }
+}
